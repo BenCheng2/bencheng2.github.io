@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ben Cheng"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ben Cheng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate student at the University of Toronto, studying Computer Science and Statistics. Interested in distributed system, human-computer interaction and machine learning."
   location         : "Toronto, Ontario, Canada"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Centre for Social Services Engineering"
+  pubmed           : 
   googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
