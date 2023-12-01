@@ -19,12 +19,10 @@ Personal Experience
 ======
 
 ## Web Development on Middleware Systems Research Group
-#### Develop modern lab website (Django CMS, Docker, Nginx, Google Scholar, Redis, MySQL)
 Constructed a full-function lab website demonstrating all information for the lab and its members.
 
 Developing a recommendation system for publications through a machine learning algorithm.
 
-#### Update legacy Website
 Upgraded the legacy lab website and improved the web security by utilizing Google 0Auth2 verification.
 
 ## Application Development on Centre for Social Services Engineering
