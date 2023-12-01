@@ -31,3 +31,10 @@ Personal Experience
 --Designed and implemented Django frontend templates, components and plugins
 --Implemented a CI|CD pipeline utilizing GitHub Actions to automate code integration, testing and deployment process, enhancing the development process
 --Leveraged Google Scholar API to demonstrate publications published by professors
+
+#### Application Development on Centre for Social Services Engineering
+--Developed searching functions on the backend server with RESTful API using NodeJS and TypeScript
+--Implemented the full-search query for GraphDB using Lucene connector and SPARQL query
+--Implemented the frontend interface for the search page
+--Leveraged Docker container to deploy and set the NodeJS server
+--Implemented tests on searching functions using the Jest Test library
