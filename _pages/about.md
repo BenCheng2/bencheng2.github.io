@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👨‍🎓:emoji I’m a third year undergraduate student at the University of Toronto.
+👨‍🎓 I’m a third year undergraduate student at the University of Toronto.
 
 💕 My research interests are in Distributed System, Human-computer Interaction and Machine Learning.
 
