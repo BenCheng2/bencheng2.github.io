@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "👋 Hello there, I’m Anjie!"
+title: "Hello there, I’m Ben Cheng!😊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-🧑🏻‍💻 I’m a third year undergraduate student at the University of Toronto.
+👨‍🎓:emoji I’m a third year undergraduate student at the University of Toronto.
 
-🔬 My research interests are in Distributed System, Human-computer Interaction and Machine Learning.
+💕 My research interests are in Distributed System, Human-computer Interaction and Machine Learning.
 
-📚 I’m currently working as research assistant on Middleware Systems Research Group (MSRG) lab and Junior Web Developer on Centre for Social Services Engineering.
+🤖 I’m currently working as research assistant on Middleware Systems Research Group (MSRG) lab and Junior Web Developer on Centre for Social Services Engineering.
 
 <!-- 🥰 -->
 
