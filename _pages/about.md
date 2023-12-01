@@ -18,9 +18,8 @@ redirect_from:
 Personal Experience
 ======
 
-#### Web Development on Middleware Systems Research Group
-======
-##### Update PHP Website
+# Web Development on Middleware Systems Research Group
+## Update PHP Website
 Upgraded the website to a 64-bit system with XAMPP 8.2.4 from a 32-bit system with XAMPP 1.7.4.
 
 Enhanced the website security by over 15% through applying the Google 0Auth2 verification package.
@@ -31,16 +30,16 @@ Rewrote the frontend styles using the SASS preprocessor and Material CSS framewo
 
 Utilized Google Analytics API to analyze the website dataflow and viewing counts
 
-##### Develop modern lab website (Django CMS, Docker, Nginx, Google Scholar, Redis, MySQL)
+## Develop modern lab website (Django CMS, Docker, Nginx, Google Scholar, Redis, MySQL)
 Constructed Django CMS website application wrapped in Docker Container.
 
 Designed and implemented Django frontend templates, components and plugins
 
-Implemented a CI|CD pipeline utilizing GitHub Actions to automate code integration, testing and deployment process, enhancing the development process
+Implemented a CI\|CD pipeline utilizing GitHub Actions to automate code integration, testing and deployment process, enhancing the development process
 
 Leveraged Google Scholar API to demonstrate publications published by professors
 
-#### Application Development on Centre for Social Services Engineering
+# Application Development on Centre for Social Services Engineering
 Developed searching functions on the backend server with RESTful API using NodeJS and TypeScript
 
 Implemented the full-search query for GraphDB using Lucene connector and SPARQL query
