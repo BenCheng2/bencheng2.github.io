@@ -19,7 +19,7 @@ Personal Experience
 ======
 
 ## Web Development on Middleware Systems Research Group
-### Update PHP Website
+#### Update PHP Website
 Upgraded the website to a 64-bit system with XAMPP 8.2.4 from a 32-bit system with XAMPP 1.7.4.
 
 Enhanced the website security by over 15% through applying the Google 0Auth2 verification package.
@@ -30,7 +30,7 @@ Rewrote the frontend styles using the SASS preprocessor and Material CSS framewo
 
 Utilized Google Analytics API to analyze the website dataflow and viewing counts
 
-### Develop modern lab website (Django CMS, Docker, Nginx, Google Scholar, Redis, MySQL)
+#### Develop modern lab website (Django CMS, Docker, Nginx, Google Scholar, Redis, MySQL)
 Constructed Django CMS website application wrapped in Docker Container.
 
 Designed and implemented Django frontend templates, components and plugins
