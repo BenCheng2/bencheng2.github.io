@@ -11,7 +11,7 @@ redirect_from:
 
 💕 My research interests are in Distributed System, Human-computer Interaction and Machine Learning.
 
-🤖 I’m currently working as research assistant on Middleware Systems Research Group (MSRG) lab and Junior Web Developer on Centre for Social Services Engineering.
+🤖 I’m currently working as a research assistant in the __Middleware Systems Research Group__ (MSRG) lab and participating in __a research-based course CSC494__ supervised by Professor Khai Truong. I am also acting as a web developer in the __Centre for Social Services Engineering__ and a Software Developer in a startup company called __ActEarn__.
 
 <!-- 🥰 -->
 
@@ -19,13 +19,14 @@ Personal Experience
 ======
 
 ## Web Development on Middleware Systems Research Group
-Constructed a full-function lab website demonstrating all information for the lab and its members.
+Constructed a full-function lab website demonstrating all information for lab members and their research.
 
-Developing a recommendation system for publications through a machine learning algorithm.
+Developing a recommendation system for publications through machine learning algorithms.
 
-Upgraded the legacy lab website and improved the web security by utilizing Google 0Auth2 verification.
 
 ## Application Development on Centre for Social Services Engineering
-Developed and deployed a search engine to enable full-text searching in the database.
+Developed and deployed full-text searching and advanced searches for the application.
+
+Implemented and applied searching queries running on the Semantic Graph Databases.
 
 
