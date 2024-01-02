@@ -18,6 +18,15 @@ redirect_from:
 Personal Experience
 ======
 
+## CSC494 Project (Designing Chatbots for Spatial Reasoning on Location Based Information)
+--Developing location-aware services with cartographer, librarian and navigator functions
+--Applying Chatbots and LLM models to automatically learn about space and object relation, applying spatial reasoning and labelling objects and points of interests
+
+## iOS Development on ActEarn
+--Joined an AI-powered app, WanderFlow, which leverages Generative Artificial Intelligence (GAI) to revolutionize information consumption and customize personal content
+--Participated in WanderFlow development (iOS-17 application) using React Native, Sendbird and Clerk
+
+
 ## Web Development on Middleware Systems Research Group
 Constructed a full-function lab website demonstrating all information for lab members and their research.
 
