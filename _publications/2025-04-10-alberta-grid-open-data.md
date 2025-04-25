@@ -13,4 +13,4 @@ We propose an optimization-based approach to recover power grid topology and lin
 
 [Download paper here](https://arxiv.org/pdf/2504.07870.pdf)
 
-Recommended citation: Ben Cheng, Yize Chen. (2025). *Open Datasets for Grid Modeling and Visualization: An Alberta Power Network Case.* *arXiv preprint*, arXiv:2504.07870.
+Recommended citation: Ben Cheng, Yize Chen. (2025). *Open Datasets for Grid Modeling and Visualization: An Alberta Power Network Case.
